@@ -4,9 +4,9 @@ import random
 import json
 
 # carregar dados de json
-with open("user1.json") as json_file:
-    json_data = json.load(json_file)
-    print(json_data)
+#with open("user1.json") as json_file:
+#    json_data = json.load(json_file)
+#    print(json_data)
 
 ## clusterizar entre campos usados e não usados
 # parametros para mudar a temperatura: uso e ordem
